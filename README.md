@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piotr
 - 💼 I work as Cloud / Devops Engineer
 - 👀 I’m interested in CI/CD, Azure Devops, Terraform, Ansible, Azure and Golang 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang & Puppet
 - 💞️ I’m looking to collaborate on anything where I might be usefull and learn by the way.
 - 📫 How to reach me: via [Linkedin](https://www.linkedin.com/in/piotr-skubis/) or [Twitter @PiotrSkubis](https://twitter.com/PiotrSkubis)
 
