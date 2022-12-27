@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piotr
 - 💼 I work as Cloud / Devops Engineer
 - 🌐 I recently started a blog [blog.sqbs.dev](https://blog.sqbs.dev) - currently empty
-- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/piotr-skubis/) or [Twitter @PiotrSkubis](https://twitter.com/PiotrSkubis)
+- 📫 You can reach me via [Linkedin](https://www.linkedin.com/in/piotr-skubis/) or [Twitter @psqbs](https://twitter.com/psqbs)
 
 <!---
 ptrskbs/ptrskbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
